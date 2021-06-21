@@ -1,0 +1,52 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    rgb(198, 218, 248),
+    rgba(194, 212, 240, 0)
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+  font-size: larger;
+}
+#navbar_row {
+  position: sticky;
+  margin: 10px 10px 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  background: linear-gradient(
+    to right,
+    rgb(240, 235, 175),
+    rgba(236, 229, 124, 0.4)
+  );
+  border-radius: 5px;
+}
+.col {
+  display: inline-block;
+  margin-right: 10px;
+}
+#signin {
+  float: right;
+}
+
+#Card_row {
+  justify-content: space-between;
+  margin-left: 10px;
+  border: 1px solid black;
+  width: 50%;
+}
+.col-4 {
+  display: inline-block;
+  border: 1px solid black;
+  margin-right: 10px;
+  height: 150px;
+  width: 150px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+#RequestNo {
+  border-bottom: 1px solid red;
+}

@@ -1,0 +1,38 @@
+.modalHeader {
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+.modalInputs {
+  text-align: center;
+  margin-top: 20px;
+}
+.modal_container {
+  background: linear-gradient(
+    to upper,
+    rgba(208, 247, 245),
+    rgba(208, 247, 245, 0)
+  );
+}
+input {
+  background-color: aliceblue;
+}
+.modalOption {
+  margin-top: 30px;
+  margin-left: 230px;
+}
+.modalDiscription {
+  margin-top: 30px;
+  margin-left: 230px;
+}
+label {
+  margin-right: 20px;
+}
+.modalButton {
+  margin-top: 30px;
+  margin-left: 460px;
+}
+textarea {
+  width: 300px;
+  height: 150px;
+  background-color: aliceblue;
+}

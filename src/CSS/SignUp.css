@@ -1,0 +1,28 @@
+.signup_box {
+  border: 1px solid black;
+  width: 50%;
+  height: 300px;
+  margin-top: 10%;
+  margin-left: 25%;
+}
+.signup_header {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.signup_input {
+  text-align: center;
+  margin-top: 10px;
+}
+input {
+  background-color: rgb(206, 229, 250);
+}
+.label_email {
+  margin-left: 5px;
+}
+.label_password {
+  margin-left: 10px;
+}

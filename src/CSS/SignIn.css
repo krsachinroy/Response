@@ -1,0 +1,33 @@
+#row_signin {
+  position: relative;
+  border: 1px solid black;
+  width: 50%;
+  height: 300px;
+  margin-top: 150px;
+  margin-left: 350px;
+  justify-content: center;
+  text-align: center;
+}
+#signin_header {
+  border-bottom: 1px solid black;
+}
+#input_sign_email {
+  margin-top: 20px;
+}
+#sign_email {
+  margin-left: 20px;
+}
+input {
+  border: none;
+  width: 475px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+button {
+  width: 150px;
+  height: 30px;
+  background-color: rgb(217, 240, 240);
+  font-size: 20px;
+  margin-right: 20px;
+}
